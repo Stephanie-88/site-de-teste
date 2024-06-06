@@ -4,9 +4,9 @@
 <p align="left"> <a href= "https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephanie-88" alt="stephanie -88" /></a> </p>
 
 <h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/ in/www.linkedin.com/in/stéphanie-christine-mateus-da-silva-a7bb79159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/ github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/stéphanie-christine-mateus-da-silva-a7bb79159" altura ="30" width="40" /></a>
-<a href="https://discord.gg/#1333" target="blank"><img align="center" src="https:/ /raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1333" height="30" width="40" />< /a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/stéphanie-christine-mateus-da-silva-a7bb79159) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stephanie-88)
+
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
