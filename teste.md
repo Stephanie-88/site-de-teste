@@ -1,7 +1,14 @@
 <h1 align="center">Olá 👋, meu nome é Stéphanie Christine</h1>
 <h3 align="center">Atualmente uma aprendiz da área da programação</h3>
 
-<p align="left"> <a href= "https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephanie-88" alt="stephanie -88" /></a> </p>
+<h3> Sobre mim </h3>
+
+<p align="left"> 
+Iniciei na área de tecnologias trabalhando em um laboratório de informática de uma escola municipal da cidade em que resido. Lá tive meu primeiro contato com hardware e software de maneira mais técnica.
+Após tomar gosto pela área Ingressei na Universidade Estadual de Goiás para o curso de Sistemas de Informação, aonde estou estudando ainda.
+Faço cursos online para aperfeiçoar certos conhecimentos.
+Estou atualmente trabalhando como Analist de sistemas em regime home office.
+</p>
 
 <h3 align="left">Conecte-se comigo:</h3>
 
@@ -22,3 +29,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stephanie-88&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Stephanie-88&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+<h3> Troféus </h3>
+<p align="left"> <a href= "https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephanie-88" alt="stephanie -88" /></a> </p>
